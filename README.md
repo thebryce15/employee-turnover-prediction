@@ -13,8 +13,6 @@ employee_turnover_case_study/
 ├── scripts/
 │   └── employee_turnover_model.ipynb
 ├── visuals/
-├── dashboard/
-│   └── employee_attrition_dashboard_link.txt
 ├── employee_turnover_case_study.pdf
 ├── README.md
 ```
