@@ -51,8 +51,9 @@ An XGBoost model achieved an AUC of 0.90, identifying satisfaction level, number
 - Deploy quarterly satisfaction surveys linked to predictive risk scoring.
 
 ## Interactive Dashboard
-View the live dashboard here:  
-https://public.tableau.com/views/EmployeeAttritionAnalysisDashboard_17500091477360/AttritionAnalysis
+View the live dashboard here:  ![HR_Dashboard](https://github.com/user-attachments/assets/6f6047ed-61c4-4f5b-ab4a-49169c931f96)
+
+(https://public.tableau.com/views/EmployeeAttrition_17508261962710/SalifortMotors-EmployeeAttrition?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Author
 Bryce Smith
